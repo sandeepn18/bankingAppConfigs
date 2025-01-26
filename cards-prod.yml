@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Cards service PRODUCTION environment"
+  message: "Welcome to Cards service prod environment"
   contactDetails:
     name: "John Doe cards PROD"
     email: "Ig7dF@examplePROD.com"
