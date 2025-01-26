@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Loans service PRODUCTION environment"
+  message: "Welcome to Loans service PRODUCTION 1.0 environment"
   contactDetails:
     name: "John Doe PROD"
     email: "Ig7dF@examplePROD.com"
