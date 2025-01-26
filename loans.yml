@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans service"
+  contactDetails:
+    name: "John Doe loans"
+    email: "Ig7dF@exampleLoans.com"
+  onCallSupport:
+    - 12345
+    - 67890
