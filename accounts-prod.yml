@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Account service prod environment"
+  message: "Welcome to Account service prod 1.0"
   contactDetails:
     name: "John Doe PROD"
-    email: "Ig7dF@examplePROD.com"
+    email: "{cipher}a67f2cbcd14a3c9fbeba1ecdd88225d7f61058e66a6913c76ff61e9cec4cafc71cd90767e2cee5c075f209da1e686f10"
   onCallSupport:
     - 54322
     - 87654
